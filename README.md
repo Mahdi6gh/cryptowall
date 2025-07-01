@@ -72,8 +72,10 @@ pip install pycryptodome
 
 ۲. کلون کردن پروژه (Cloning the Repository)
 
+```bash
 git clone [https://github.com/Mahdi6gh/cryptowall.git](https://github.com/Mahdi6gh/cryptowall.git)
 cd cryptowall
+```
 
 python main.py
 

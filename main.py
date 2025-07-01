@@ -2,4 +2,6 @@ from encriptFIles import encript
 import generateKeys
 generateKeys.do()
 encrypt=encript
-encrypt.encrypt_files(folder_path="testFolder")
+folders=["testFolder"]
+for folder in folders:
+    encrypt.encrypt_files(folder_path=folder)
