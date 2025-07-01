@@ -77,7 +77,9 @@ git clone [https://github.com/Mahdi6gh/cryptowall.git](https://github.com/Mahdi6
 cd cryptowall
 ```
 
+```bash
 python main.py
+```
 
 پس از اجرای موفقیت‌آمیز، کلیدهای private_key.pem و public_key.pem به همراه پوشه رمزنگاری شده شما ایجاد خواهند شد. کلید خصوصی خود (private_key.pem) را در مکانی امن نگهداری کنید!
 
